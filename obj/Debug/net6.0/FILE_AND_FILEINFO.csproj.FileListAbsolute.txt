@@ -1,0 +1,15 @@
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\FILE_AND_FILEINFO\bin\Debug\net6.0\FILE_AND_FILEINFO.exe
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\FILE_AND_FILEINFO\bin\Debug\net6.0\FILE_AND_FILEINFO.deps.json
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\FILE_AND_FILEINFO\bin\Debug\net6.0\FILE_AND_FILEINFO.runtimeconfig.json
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\FILE_AND_FILEINFO\bin\Debug\net6.0\FILE_AND_FILEINFO.dll
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\FILE_AND_FILEINFO\bin\Debug\net6.0\FILE_AND_FILEINFO.pdb
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\FILE_AND_FILEINFO\obj\Debug\net6.0\FILE_AND_FILEINFO.csproj.AssemblyReference.cache
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\FILE_AND_FILEINFO\obj\Debug\net6.0\FILE_AND_FILEINFO.GeneratedMSBuildEditorConfig.editorconfig
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\FILE_AND_FILEINFO\obj\Debug\net6.0\FILE_AND_FILEINFO.AssemblyInfoInputs.cache
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\FILE_AND_FILEINFO\obj\Debug\net6.0\FILE_AND_FILEINFO.AssemblyInfo.cs
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\FILE_AND_FILEINFO\obj\Debug\net6.0\FILE_AND_FILEINFO.csproj.CoreCompileInputs.cache
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\FILE_AND_FILEINFO\obj\Debug\net6.0\FILE_AND_FILEINFO.dll
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\FILE_AND_FILEINFO\obj\Debug\net6.0\refint\FILE_AND_FILEINFO.dll
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\FILE_AND_FILEINFO\obj\Debug\net6.0\FILE_AND_FILEINFO.pdb
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\FILE_AND_FILEINFO\obj\Debug\net6.0\FILE_AND_FILEINFO.genruntimeconfig.cache
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\FILE_AND_FILEINFO\obj\Debug\net6.0\ref\FILE_AND_FILEINFO.dll
